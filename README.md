@@ -20,3 +20,5 @@
     Global (全域資訊)
     
     RelOptInfo
+    
+    EC, EquivalenceClasses (等式運算)
