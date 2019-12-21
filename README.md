@@ -13,7 +13,7 @@
 
     Restrict Info (約束資訊)
 
-    Path Info (物化資訊)
+    Path Info & Place Holder (物化資訊或稱路徑資訊)
 
     Cost: pages, tuples, baserestrictcost (代價資訊)
 
